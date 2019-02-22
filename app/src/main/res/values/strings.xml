@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EventBrite_MMA_Assignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="label">What\'s good in</string>
+    <string name="country_name">New York</string>
+    <string name="popular_in_yangon">Editor Picks</string>
+    <string name="festival_month">MAR</string>
+    <string name="festival_day">9</string>
+    <string name="title_festival">NYC Winter Wine Festival 2019</string>
+    <string name="play_station">Play Station Theater on EventBrite</string>
+    <string name="label_see_more">See more events like this</string>
+    <string name="title_name">Chocolate, Wine Whiske Festival - Brooklyn</string>
+    <string name="date_time">Wed, Feb27, 8:30 AM EST</string>
+    <string name="place">Brooklyn EXPO Center</string>
+    <string name="label_popular_place">Popular In Yangon</string>
+</resources>
